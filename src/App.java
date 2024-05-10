@@ -12,6 +12,7 @@ import java.util.stream.Stream;
 
 import javax.swing.SpringLayout.Constraints;
 
+@SuppressWarnings("unused")
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("//CONSUMER--------------------------------------------------------");
